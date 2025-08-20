@@ -1,5 +1,6 @@
 # Revisiting Cross-View Localization from Image Matching
 [![Paper](http://img.shields.io/badge/paper-arXiv.2508.10716-B31B1B.svg)](https://arxiv.org/abs/2508.10716)
+
 This paper is under revision for submission, and we welcome any questions or suggestions through the issues.
 
 ## ✅ To-Do
